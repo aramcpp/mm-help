@@ -1,0 +1,27 @@
+html, body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.circle-btn {
+    width: 100px;
+    height: 100px;
+    padding: 10px 16px;
+    font-size: 24px;
+    line-height: 1.33;
+    border-radius: 50%;
+}
+
+#help-button {
+    position: absolute;
+    margin: 0 auto;
+    bottom: 20px;
+    outline: none;
+}
